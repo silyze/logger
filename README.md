@@ -2,11 +2,11 @@
 
 > \*_A tiny, scoped, zero-dependency_ structured logger for TypeScript and Node.js\*\*
 >
-> ✅ JSON or plain-text output
-> ✅ Runtime-choosable severity (`debug` → `fatal`)
-> ✅ _Hierarchical_ scopes with automatic UUIDs
-> ✅ Combine many loggers into one fan-out
-> ✅ Helper to serialise unknown `Error` objects
+> - [x] JSON or plain-text output
+> - [x] Runtime-choosable severity (`debug` → `fatal`)
+> - [x] _Hierarchical_ scopes with automatic UUIDs
+> - [x] Combine many loggers into one fan-out
+> - [x] Helper to serialise unknown `Error` objects
 
 \* only production dep is [`uuid`](https://npmjs.com/package/uuid) for random `scopeId` generation.
 
