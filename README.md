@@ -12,7 +12,7 @@
 
 ---
 
-## 📦 Installation
+## Installation
 
 ```bash
 npm install @silyze/logger uuid
