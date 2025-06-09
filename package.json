@@ -1,6 +1,6 @@
 {
   "name": "@silyze/logger",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A structured logger",
   "main": "dist/lib/index.js",
   "types": "dist/lib/index.d.ts",
